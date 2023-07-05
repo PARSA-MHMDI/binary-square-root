@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- IMPORTANT: This is an internal file that has been generated
+     by the Xilinx ISE software.  Any direct editing or
+     changes made to this file may result in unpredictable
+     behavior or data corruption.  It is strongly advised that
+     users do not edit the contents of this file. -->
+<messages>
+<msg type="info" file="Xst" num="3210" delta="new" >&quot;<arg fmt="%s" index="1">D:\Study\AUT\Term6\Computer Architecture\VHDL2\Root_Computer\Root.vhd</arg>&quot; line <arg fmt="%s" index="2">70</arg>: Output port &lt;<arg fmt="%s" index="3">R0</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">X_row1</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="new" >&quot;<arg fmt="%s" index="1">D:\Study\AUT\Term6\Computer Architecture\VHDL2\Root_Computer\Root.vhd</arg>&quot; line <arg fmt="%s" index="2">70</arg>: Output port &lt;<arg fmt="%s" index="3">R1</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">X_row1</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="new" >&quot;<arg fmt="%s" index="1">D:\Study\AUT\Term6\Computer Architecture\VHDL2\Root_Computer\Root.vhd</arg>&quot; line <arg fmt="%s" index="2">75</arg>: Output port &lt;<arg fmt="%s" index="3">S11</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">Y_row2</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="new" >&quot;<arg fmt="%s" index="1">D:\Study\AUT\Term6\Computer Architecture\VHDL2\Root_Computer\Root.vhd</arg>&quot; line <arg fmt="%s" index="2">75</arg>: Output port &lt;<arg fmt="%s" index="3">S21</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">Y_row2</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="new" >&quot;<arg fmt="%s" index="1">D:\Study\AUT\Term6\Computer Architecture\VHDL2\Root_Computer\Root.vhd</arg>&quot; line <arg fmt="%s" index="2">81</arg>: Output port &lt;<arg fmt="%s" index="3">S11</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">Y1_row3</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="new" >&quot;<arg fmt="%s" index="1">D:\Study\AUT\Term6\Computer Architecture\VHDL2\Root_Computer\Root.vhd</arg>&quot; line <arg fmt="%s" index="2">81</arg>: Output port &lt;<arg fmt="%s" index="3">S21</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">Y1_row3</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="new" >&quot;<arg fmt="%s" index="1">D:\Study\AUT\Term6\Computer Architecture\VHDL2\Root_Computer\Root.vhd</arg>&quot; line <arg fmt="%s" index="2">88</arg>: Output port &lt;<arg fmt="%s" index="3">DO1</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">Y1_row4</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="new" >&quot;<arg fmt="%s" index="1">D:\Study\AUT\Term6\Computer Architecture\VHDL2\Root_Computer\Root.vhd</arg>&quot; line <arg fmt="%s" index="2">88</arg>: Output port &lt;<arg fmt="%s" index="3">DO2</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">Y1_row4</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="new" >&quot;<arg fmt="%s" index="1">D:\Study\AUT\Term6\Computer Architecture\VHDL2\Root_Computer\Root.vhd</arg>&quot; line <arg fmt="%s" index="2">88</arg>: Output port &lt;<arg fmt="%s" index="3">S11</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">Y1_row4</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="new" >&quot;<arg fmt="%s" index="1">D:\Study\AUT\Term6\Computer Architecture\VHDL2\Root_Computer\Root.vhd</arg>&quot; line <arg fmt="%s" index="2">89</arg>: Output port &lt;<arg fmt="%s" index="3">DO1</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">Y2_row4</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="new" >&quot;<arg fmt="%s" index="1">D:\Study\AUT\Term6\Computer Architecture\VHDL2\Root_Computer\Root.vhd</arg>&quot; line <arg fmt="%s" index="2">89</arg>: Output port &lt;<arg fmt="%s" index="3">DO2</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">Y2_row4</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="new" >&quot;<arg fmt="%s" index="1">D:\Study\AUT\Term6\Computer Architecture\VHDL2\Root_Computer\Root.vhd</arg>&quot; line <arg fmt="%s" index="2">90</arg>: Output port &lt;<arg fmt="%s" index="3">DO1</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">Y3_row4</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="new" >&quot;<arg fmt="%s" index="1">D:\Study\AUT\Term6\Computer Architecture\VHDL2\Root_Computer\Root.vhd</arg>&quot; line <arg fmt="%s" index="2">90</arg>: Output port &lt;<arg fmt="%s" index="3">DO2</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">Y3_row4</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="new" >&quot;<arg fmt="%s" index="1">D:\Study\AUT\Term6\Computer Architecture\VHDL2\Root_Computer\Root.vhd</arg>&quot; line <arg fmt="%s" index="2">91</arg>: Output port &lt;<arg fmt="%s" index="3">DO1</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">X_row4</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="new" >&quot;<arg fmt="%s" index="1">D:\Study\AUT\Term6\Computer Architecture\VHDL2\Root_Computer\Root.vhd</arg>&quot; line <arg fmt="%s" index="2">91</arg>: Output port &lt;<arg fmt="%s" index="3">DO2</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">X_row4</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="new" >&quot;<arg fmt="%s" index="1">D:\Study\AUT\Term6\Computer Architecture\VHDL2\Root_Computer\X.vhd</arg>&quot; line <arg fmt="%s" index="2">49</arg>: Output port &lt;<arg fmt="%s" index="3">Dout</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">CAS_a</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="new" >&quot;<arg fmt="%s" index="1">D:\Study\AUT\Term6\Computer Architecture\VHDL2\Root_Computer\X.vhd</arg>&quot; line <arg fmt="%s" index="2">50</arg>: Output port &lt;<arg fmt="%s" index="3">Dout</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">CAS_b</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="new" >&quot;<arg fmt="%s" index="1">D:\Study\AUT\Term6\Computer Architecture\VHDL2\Root_Computer\X.vhd</arg>&quot; line <arg fmt="%s" index="2">51</arg>: Output port &lt;<arg fmt="%s" index="3">Dout</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">CAS_c</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="new" >&quot;<arg fmt="%s" index="1">D:\Study\AUT\Term6\Computer Architecture\VHDL2\Root_Computer\X.vhd</arg>&quot; line <arg fmt="%s" index="2">52</arg>: Output port &lt;<arg fmt="%s" index="3">Dout</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">CAS_d</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="new" >&quot;<arg fmt="%s" index="1">D:\Study\AUT\Term6\Computer Architecture\VHDL2\Root_Computer\X.vhd</arg>&quot; line <arg fmt="%s" index="2">53</arg>: Output port &lt;<arg fmt="%s" index="3">Dout</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">CAS_e</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="new" >&quot;<arg fmt="%s" index="1">D:\Study\AUT\Term6\Computer Architecture\VHDL2\Root_Computer\X.vhd</arg>&quot; line <arg fmt="%s" index="2">54</arg>: Output port &lt;<arg fmt="%s" index="3">Dout</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">CAS_f</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="new" >&quot;<arg fmt="%s" index="1">D:\Study\AUT\Term6\Computer Architecture\VHDL2\Root_Computer\X.vhd</arg>&quot; line <arg fmt="%s" index="2">55</arg>: Output port &lt;<arg fmt="%s" index="3">Dout</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">CAS_g</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="new" >&quot;<arg fmt="%s" index="1">D:\Study\AUT\Term6\Computer Architecture\VHDL2\Root_Computer\Y.vhd</arg>&quot; line <arg fmt="%s" index="2">46</arg>: Output port &lt;<arg fmt="%s" index="3">Dout</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">CAS_h</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="new" >&quot;<arg fmt="%s" index="1">D:\Study\AUT\Term6\Computer Architecture\VHDL2\Root_Computer\Y.vhd</arg>&quot; line <arg fmt="%s" index="2">47</arg>: Output port &lt;<arg fmt="%s" index="3">Dout</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">CAS_i</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="new" >&quot;<arg fmt="%s" index="1">D:\Study\AUT\Term6\Computer Architecture\VHDL2\Root_Computer\Y.vhd</arg>&quot; line <arg fmt="%s" index="2">48</arg>: Output port &lt;<arg fmt="%s" index="3">Dout</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">CAS_j</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="new" >&quot;<arg fmt="%s" index="1">D:\Study\AUT\Term6\Computer Architecture\VHDL2\Root_Computer\Y.vhd</arg>&quot; line <arg fmt="%s" index="2">49</arg>: Output port &lt;<arg fmt="%s" index="3">Dout</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">CAS_k</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+</messages>
+

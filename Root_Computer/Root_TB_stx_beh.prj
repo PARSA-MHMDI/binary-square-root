@@ -1,0 +1,7 @@
+vhdl isim_temp "Half_Adder.vhd"
+vhdl isim_temp "full_adder.vhd"
+vhdl isim_temp "CAS.vhd"
+vhdl isim_temp "Y.vhd"
+vhdl isim_temp "X.vhd"
+vhdl isim_temp "Root.vhd"
+vhdl isim_temp "Root_TB.vhd"

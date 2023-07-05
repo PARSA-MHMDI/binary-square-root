@@ -1,0 +1,28 @@
+Command line:
+   Full_Adder_TB_isim_translate.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  64837
+
+Thu Mar 23 15:38:38 2023
+
+
+ Elaboration Time: 0.375 sec
+
+ Current Memory Usage: 5650.33 Meg
+
+ Total Signals          : 74
+ Total Nets             : 51
+ Total Signal Drivers   : 26
+ Total Blocks           : 25
+ Total Primitive Blocks : 16
+ Total Processes        : 23
+ Total Traceable Variables  : 149
+ Total Scalar Nets and Variables : 4799
+
+ Total Simulation Time: 0.40625 sec
+
+ Current Memory Usage: 5650.33 Meg
+
+Thu Mar 23 15:38:50 2023
+

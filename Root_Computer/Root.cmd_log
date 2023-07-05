@@ -1,0 +1,47 @@
+xst -intstyle ise -ifn "D:/Study/AUT/Term6/Computer Architecture/VHDL2/Root_Computer/Root.xst" -ofn "D:/Study/AUT/Term6/Computer Architecture/VHDL2/Root_Computer/Root.syr" 
+xst -intstyle ise -ifn "D:/Study/AUT/Term6/Computer Architecture/VHDL2/Root_Computer/Root.xst" -ofn "D:/Study/AUT/Term6/Computer Architecture/VHDL2/Root_Computer/Root.syr" 
+xst -intstyle ise -ifn "D:/Study/AUT/Term6/Computer Architecture/VHDL2/Root_Computer/Root.xst" -ofn "D:/Study/AUT/Term6/Computer Architecture/VHDL2/Root_Computer/Root.syr" 
+xst -intstyle ise -ifn "D:/Study/AUT/Term6/Computer Architecture/VHDL2/Root_Computer/Root.xst" -ofn "D:/Study/AUT/Term6/Computer Architecture/VHDL2/Root_Computer/Root.syr" 
+xst -intstyle ise -ifn "D:/Study/AUT/Term6/Computer Architecture/VHDL2/Root_Computer/Root.xst" -ofn "D:/Study/AUT/Term6/Computer Architecture/VHDL2/Root_Computer/Root.syr" 
+xst -intstyle ise -ifn "D:/Study/AUT/Term6/Computer Architecture/VHDL2/Root_Computer/Root.xst" -ofn "D:/Study/AUT/Term6/Computer Architecture/VHDL2/Root_Computer/Root.syr" 
+xst -intstyle ise -ifn "D:/Study/AUT/Term6/Computer Architecture/VHDL2/Root_Computer/Root.xst" -ofn "D:/Study/AUT/Term6/Computer Architecture/VHDL2/Root_Computer/Root.syr" 
+xst -intstyle ise -ifn "D:/Study/AUT/Term6/Computer Architecture/VHDL2/Root_Computer/Root.xst" -ofn "D:/Study/AUT/Term6/Computer Architecture/VHDL2/Root_Computer/Root.syr" 
+xst -intstyle ise -ifn "D:/Study/AUT/Term6/Computer Architecture/VHDL2/Root_Computer/Root.xst" -ofn "D:/Study/AUT/Term6/Computer Architecture/VHDL2/Root_Computer/Root.syr" 
+xst -intstyle ise -ifn "D:/Study/AUT/Term6/Computer Architecture/VHDL2/Root_Computer/Root.xst" -ofn "D:/Study/AUT/Term6/Computer Architecture/VHDL2/Root_Computer/Root.syr" 
+xst -intstyle ise -ifn "D:/Study/AUT/Term6/Computer Architecture/VHDL2/Root_Computer/Root.xst" -ofn "D:/Study/AUT/Term6/Computer Architecture/VHDL2/Root_Computer/Root.syr" 
+xst -intstyle ise -ifn "D:/Study/AUT/Term6/Computer Architecture/VHDL2/Root_Computer/Root.xst" -ofn "D:/Study/AUT/Term6/Computer Architecture/VHDL2/Root_Computer/Root.syr" 
+xst -intstyle ise -ifn "D:/Study/AUT/Term6/Computer Architecture/VHDL2/Root_Computer/Root.xst" -ofn "D:/Study/AUT/Term6/Computer Architecture/VHDL2/Root_Computer/Root.syr" 
+xst -intstyle ise -ifn "D:/Study/AUT/Term6/Computer Architecture/VHDL2/Root_Computer/Root.xst" -ofn "D:/Study/AUT/Term6/Computer Architecture/VHDL2/Root_Computer/Root.syr" 
+xst -intstyle ise -ifn "D:/Study/AUT/Term6/Computer Architecture/VHDL2/Root_Computer/Root.xst" -ofn "D:/Study/AUT/Term6/Computer Architecture/VHDL2/Root_Computer/Root.syr" 
+xst -intstyle ise -ifn "D:/Study/AUT/Term6/Computer Architecture/VHDL2/Root_Computer/Root.xst" -ofn "D:/Study/AUT/Term6/Computer Architecture/VHDL2/Root_Computer/Root.syr" 
+xst -intstyle ise -ifn "D:/Study/AUT/Term6/Computer Architecture/VHDL2/Root_Computer/Root.xst" -ofn "D:/Study/AUT/Term6/Computer Architecture/VHDL2/Root_Computer/Root.syr" 
+xst -intstyle ise -ifn "D:/Study/AUT/Term6/Computer Architecture/VHDL2/Root_Computer/Root.xst" -ofn "D:/Study/AUT/Term6/Computer Architecture/VHDL2/Root_Computer/Root.syr" 
+xst -intstyle ise -ifn "D:/Study/AUT/Term6/Computer Architecture/VHDL2/Root_Computer/Root.xst" -ofn "D:/Study/AUT/Term6/Computer Architecture/VHDL2/Root_Computer/Root.syr" 
+xst -intstyle ise -ifn "D:/Study/AUT/Term6/Computer Architecture/VHDL2/Root_Computer/Root.xst" -ofn "D:/Study/AUT/Term6/Computer Architecture/VHDL2/Root_Computer/Root.syr" 
+vhdtdtfi -prj Root_Computer -o "D:/Study/AUT/Term6/Computer Architecture/VHDL2/Root_Computer/Root.vhi" -module Root -template C:/Xilinx/14.7/ISE_DS/ISE//data/vhdlinst.tft -deleteonerror -lib work Half_Adder.vhd -lib work full_adder.vhd -lib work CAS.vhd -lib work Y.vhd -lib work X.vhd -lib work Root.vhd 
+xst -intstyle ise -ifn "D:/Study/AUT/Term6/Computer Architecture/VHDL2/Root_Computer/Root.xst" -ofn "D:/Study/AUT/Term6/Computer Architecture/VHDL2/Root_Computer/Root.syr" 
+xst -intstyle ise -ifn "D:/Study/AUT/Term6/Computer Architecture/VHDL2/Root_Computer/Root.xst" -ofn "D:/Study/AUT/Term6/Computer Architecture/VHDL2/Root_Computer/Root.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc7a100t-csg324-3 "Root.ngc" Root.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o Root_map.ncd Root.ngd Root.pcf 
+par -w -intstyle ise -ol high -mt off Root_map.ncd Root.ncd Root.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml Root.twx Root.ncd -o Root.twr Root.pcf 
+xst -intstyle ise -ifn "D:/Study/AUT/Term6/Computer Architecture/VHDL2/Root_Computer/Root.xst" -ofn "D:/Study/AUT/Term6/Computer Architecture/VHDL2/Root_Computer/Root.syr" 
+xst -intstyle ise -ifn "D:/Study/AUT/Term6/Computer Architecture/VHDL2/Root_Computer/Root.xst" -ofn "D:/Study/AUT/Term6/Computer Architecture/VHDL2/Root_Computer/Root.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc7a100t-csg324-3 "Root.ngc" Root.ngd  
+netgen -intstyle ise -rpw 100 -tpw 0 -ar Structure -tm Root -w -dir netgen/translate -ofmt vhdl -sim Root.ngd Root_translate.vhd 
+netgen -intstyle ise -ar Structure -tm Root -w -dir netgen/synthesis -ofmt vhdl -sim Root.ngc Root_synthesis.vhd 
+xst -intstyle ise -ifn "D:/Study/AUT/Term6/Computer Architecture/VHDL2/Root_Computer/Root.xst" -ofn "D:/Study/AUT/Term6/Computer Architecture/VHDL2/Root_Computer/Root.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc7a100t-csg324-3 "Root.ngc" Root.ngd  
+netgen -intstyle ise -rpw 100 -tpw 0 -ar Structure -tm Root -w -dir netgen/translate -ofmt vhdl -sim Root.ngd Root_translate.vhd 
+xst -intstyle ise -ifn "D:/Study/AUT/Term6/Computer Architecture/VHDL2/Root_Computer/Root.xst" -ofn "D:/Study/AUT/Term6/Computer Architecture/VHDL2/Root_Computer/Root.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc7a100t-csg324-3 "Root.ngc" Root.ngd  
+netgen -intstyle ise -rpw 100 -tpw 0 -ar Structure -tm Root -w -dir netgen/translate -ofmt vhdl -sim Root.ngd Root_translate.vhd 
+xst -intstyle ise -ifn "D:/Study/AUT/Term6/Computer Architecture/VHDL2/Root_Computer/Root.xst" -ofn "D:/Study/AUT/Term6/Computer Architecture/VHDL2/Root_Computer/Root.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc7a100t-csg324-3 "Root.ngc" Root.ngd  
+netgen -intstyle ise -rpw 100 -tpw 0 -ar Structure -tm Root -w -dir netgen/translate -ofmt vhdl -sim Root.ngd Root_translate.vhd 
+xst -intstyle ise -ifn "D:/Study/AUT/Term6/Computer Architecture/VHDL2/Root_Computer/Root.xst" -ofn "D:/Study/AUT/Term6/Computer Architecture/VHDL2/Root_Computer/Root.syr" 
+netgen -intstyle ise -ar Structure -tm Root -w -dir netgen/synthesis -ofmt vhdl -sim Root.ngc Root_synthesis.vhd 
+vhdtdtfi -prj Root_Computer -o "D:/Study/AUT/Term6/Computer Architecture/VHDL2/Root_Computer/Root.vhi" -module Root -template C:/Xilinx/14.7/ISE_DS/ISE//data/vhdlinst.tft -deleteonerror -lib work Half_Adder.vhd -lib work full_adder.vhd -lib work CAS.vhd -lib work Y.vhd -lib work X.vhd -lib work Root.vhd 
+xst -intstyle ise -ifn "D:/Study/AUT/Term6/Computer Architecture/VHDL2/Root_Computer/Root.xst" -ofn "D:/Study/AUT/Term6/Computer Architecture/VHDL2/Root_Computer/Root.syr" 
+xst -intstyle ise -ifn "D:/Study/AUT/Term6/Computer Architecture/VHDL2/Root_Computer/Root.xst" -ofn "D:/Study/AUT/Term6/Computer Architecture/VHDL2/Root_Computer/Root.syr" 
+xst -intstyle ise -ifn "D:/Study/AUT/Term6/Computer Architecture/VHDL2/Root_Computer/Root.xst" -ofn "D:/Study/AUT/Term6/Computer Architecture/VHDL2/Root_Computer/Root.syr" 

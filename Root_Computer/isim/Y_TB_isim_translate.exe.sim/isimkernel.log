@@ -1,0 +1,28 @@
+Command line:
+   Y_TB_isim_translate.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  65323
+
+Thu Mar 23 16:01:48 2023
+
+
+ Elaboration Time: 0.3125 sec
+
+ Current Memory Usage: 5650.28 Meg
+
+ Total Signals          : 218
+ Total Nets             : 132
+ Total Signal Drivers   : 101
+ Total Blocks           : 59
+ Total Primitive Blocks : 33
+ Total Processes        : 92
+ Total Traceable Variables  : 327
+ Total Scalar Nets and Variables : 5910
+
+ Total Simulation Time: 0.5625 sec
+
+ Current Memory Usage: 4706.57 Meg
+
+Thu Mar 23 16:11:47 2023
+

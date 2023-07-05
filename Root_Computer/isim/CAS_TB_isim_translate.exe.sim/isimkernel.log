@@ -1,0 +1,28 @@
+Command line:
+   CAS_TB_isim_translate.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  64988
+
+Thu Mar 23 15:45:57 2023
+
+
+ Elaboration Time: 0.234375 sec
+
+ Current Memory Usage: 5650.27 Meg
+
+ Total Signals          : 98
+ Total Nets             : 65
+ Total Signal Drivers   : 39
+ Total Blocks           : 31
+ Total Primitive Blocks : 19
+ Total Processes        : 35
+ Total Traceable Variables  : 179
+ Total Scalar Nets and Variables : 4940
+
+ Total Simulation Time: 0.265625 sec
+
+ Current Memory Usage: 5650.27 Meg
+
+Thu Mar 23 15:46:03 2023
+

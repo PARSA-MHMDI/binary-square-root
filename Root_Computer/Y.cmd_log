@@ -1,0 +1,15 @@
+xst -intstyle ise -ifn "D:/Study/AUT/Term6/Computer Architecture/VHDL1/Root_Computer/Y.xst" -ofn "D:/Study/AUT/Term6/Computer Architecture/VHDL1/Root_Computer/Y.syr" 
+xst -intstyle ise -ifn "D:/Study/AUT/Term6/Computer Architecture/VHDL1/Root_Computer/Y.xst" -ofn "D:/Study/AUT/Term6/Computer Architecture/VHDL1/Root_Computer/Y.syr" 
+netgen -intstyle ise -ar Structure -tm Y -w -dir netgen/synthesis -ofmt vhdl -sim Y.ngc Y_synthesis.vhd 
+xst -intstyle ise -ifn "D:/Study/AUT/Term6/Computer Architecture/VHDL2/Root_Computer/Y.xst" -ofn "D:/Study/AUT/Term6/Computer Architecture/VHDL2/Root_Computer/Y.syr" 
+xst -intstyle ise -ifn "D:/Study/AUT/Term6/Computer Architecture/VHDL2/Root_Computer/Y.xst" -ofn "D:/Study/AUT/Term6/Computer Architecture/VHDL2/Root_Computer/Y.syr" 
+xst -intstyle ise -ifn "D:/Study/AUT/Term6/Computer Architecture/VHDL2/Root_Computer/Y.xst" -ofn "D:/Study/AUT/Term6/Computer Architecture/VHDL2/Root_Computer/Y.syr" 
+xst -intstyle ise -ifn "D:/Study/AUT/Term6/Computer Architecture/VHDL2/Root_Computer/Y.xst" -ofn "D:/Study/AUT/Term6/Computer Architecture/VHDL2/Root_Computer/Y.syr" 
+xst -intstyle ise -ifn "D:/Study/AUT/Term6/Computer Architecture/VHDL2/Root_Computer/Y.xst" -ofn "D:/Study/AUT/Term6/Computer Architecture/VHDL2/Root_Computer/Y.syr" 
+netgen -intstyle ise -ar Structure -tm Y -w -dir netgen/synthesis -ofmt vhdl -sim Y.ngc Y_synthesis.vhd 
+xst -intstyle ise -ifn "D:/Study/AUT/Term6/Computer Architecture/VHDL2/Root_Computer/Y.xst" -ofn "D:/Study/AUT/Term6/Computer Architecture/VHDL2/Root_Computer/Y.syr" 
+xst -intstyle ise -ifn "D:/Study/AUT/Term6/Computer Architecture/VHDL2/Root_Computer/Y.xst" -ofn "D:/Study/AUT/Term6/Computer Architecture/VHDL2/Root_Computer/Y.syr" 
+xst -intstyle ise -ifn "D:/Study/AUT/Term6/Computer Architecture/VHDL2/Root_Computer/Y.xst" -ofn "D:/Study/AUT/Term6/Computer Architecture/VHDL2/Root_Computer/Y.syr" 
+xst -intstyle ise -ifn "D:/Study/AUT/Term6/Computer Architecture/VHDL2/Root_Computer/Y.xst" -ofn "D:/Study/AUT/Term6/Computer Architecture/VHDL2/Root_Computer/Y.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc7a100t-csg324-3 "Y.ngc" Y.ngd  
+netgen -intstyle ise -rpw 100 -tpw 0 -ar Structure -tm Y -w -dir netgen/translate -ofmt vhdl -sim Y.ngd Y_translate.vhd 

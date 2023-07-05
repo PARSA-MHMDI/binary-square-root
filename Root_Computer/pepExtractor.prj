@@ -1,0 +1,6 @@
+work	"CAS.vhd"
+work	"Half_Adder.vhd"
+work	"Root.vhd"
+work	"X.vhd"
+work	"Y.vhd"
+work	"full_adder.vhd"

@@ -1,0 +1,1 @@
+xst -intstyle ise -ifn "D:/Study/AUT/Term6/Computer Architecture/VHDL2/Root_Computer/half_adder.xst" -ofn "D:/Study/AUT/Term6/Computer Architecture/VHDL2/Root_Computer/half_adder.syr" 

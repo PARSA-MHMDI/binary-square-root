@@ -1,0 +1,3 @@
+xst -intstyle ise -ifn "D:/Study/AUT/Term6/Computer Architecture/VHDL2/Root_Computer/Full_adder.xst" -ofn "D:/Study/AUT/Term6/Computer Architecture/VHDL2/Root_Computer/Full_adder.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc7a100t-csg324-3 "Full_adder.ngc" Full_adder.ngd  
+netgen -intstyle ise -rpw 100 -tpw 0 -ar Structure -tm Full_adder -w -dir netgen/translate -ofmt vhdl -sim Full_adder.ngd Full_adder_translate.vhd 

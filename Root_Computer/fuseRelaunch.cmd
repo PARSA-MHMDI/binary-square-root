@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "secureip" -o "D:/Study/AUT/Term6/Computer Architecture/VHDL2/Root_Computer/Y_TB_isim_translate.exe" -prj "D:/Study/AUT/Term6/Computer Architecture/VHDL2/Root_Computer/Y_TB_translate.prj" "work.Y_TB" 
